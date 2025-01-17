@@ -1,5 +1,5 @@
-# chime-clojure
-A [Chime][chime] extension for Clojure.
+# chime-markdown
+A [Chime][chime] extension for Markdown.
 
 ## Overview
 
